@@ -1,32 +1,33 @@
 {
-  "posts": [
+  "notes": [
     {
       "id": "0",
-      "title": "Post 0",
-      "body": "Body 0",
-      "categoryId": "1",
-      "authorId": "0"
+      "title": "Note 0",
+      "body": "Body 0"
     },
     {
       "id": "1",
-      "title": "Post 1",
-      "body": "Body 1",
-      "categoryId": "0",
-      "authorId": "0"
-    }
-  ],
-  "categories": [
-    {
-      "id": "0",
-      "name": "Tech"
-    },
-    {
-      "id": "1",
-      "name": "Financial Independence"
+      "title": "Note 1",
+      "body": "Body 1"
     },
     {
       "id": "2",
-      "name": "Retirement"
+      "title": "Note 2",
+      "body": "Body 2"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "0",
+      "title": "List of Tasks 0"
+    },
+    {
+      "id": "1",
+      "title": "List of Tasks 1"
+    },
+    {
+      "id": "2",
+      "title": "List of Tasks 2"
     }
   ],
   "comments": [
