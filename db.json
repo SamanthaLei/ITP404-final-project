@@ -4,61 +4,22 @@
       "id": "0",
       "title": "Matt's Thoughts",
       "body": "the capacity to trust shouldn't be affected by the inability of others to honor that trust",
-      "date": "12/03/2021"
+      "date": "12/03/2021",
+      "expanded": "false"
     },
     {
       "id": "1",
       "title": "Songs",
       "body": "Break My Heart Again (Finneas); (Chelsea Cutler); I Don't Think I'm Okay (Bazzi)",
-      "date": "12/03/2021"
+      "date": "12/03/2021",
+      "expanded": "false"
     },
     {
       "id": "2",
       "title": "Matt's Third Thought",
       "body": "There can be no truly tolerant society without intolerance.",
-      "date": "12/03/2021"
-    }
-  ],
-  "tasks": [
-    {
-      "id": "0",
-      "title": "List of Tasks 0"
-    },
-    {
-      "id": "1",
-      "title": "List of Tasks 1"
-    },
-    {
-      "id": "2",
-      "title": "List of Tasks 2"
-    }
-  ],
-  "comments": [
-    {
-      "id": "0",
-      "body": "Comment 0",
-      "postId": "0"
-    },
-    {
-      "id": "1",
-      "body": "Comment 1",
-      "postId": "1"
-    },
-    {
-      "id": "2",
-      "body": "Comment 2",
-      "postId": "1"
-    },
-    {
-      "id": "3",
-      "body": "Comment 3",
-      "postId": "0"
-    }
-  ],
-  "authors": [
-    {
-      "id": "0",
-      "name": "David Tang"
+      "date": "12/03/2021",
+      "expanded": "false"
     }
   ]
 }
